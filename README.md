@@ -1,4 +1,4 @@
-converse-about
+indaba sync
 ==============
 
-A simple static page for Converse Rubber Tracks bands to find info about the web project.
+A simple static page for Indaba Sync to find info about the project.
