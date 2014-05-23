@@ -162,9 +162,13 @@ iframe {
 	overflow: auto;
 }
 
-.content-margin {
+.video-margin {
 	margin: 0 50px;
 	height: 40%;
+}
+
+.content-margin {
+	margin: 0 50px;
 }
 
 #video iframe {
