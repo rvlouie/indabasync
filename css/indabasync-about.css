@@ -52,6 +52,26 @@ iframe {
 	overflow: auto;
 }
 
+.fixed-cta {
+	display: block;
+	position: fixed;
+	top: 0;
+	left: 20px;
+	height: 24px;
+	background-color: #0980d1;
+	color: white;
+	font-size: 12px;
+	text-decoration: none;
+	padding: 2px 10px;
+	border-radius: 0 0 5px 5px;
+	z-index: 1000;
+}
+
+.fixed-cta:hover {
+	text-decoration: none;
+	color: white;
+}
+
 .indabasync-logo {
 	background-image: url(../assets/logo_indabasync.png);
 	background-repeat: no-repeat;

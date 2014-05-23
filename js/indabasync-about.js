@@ -25,4 +25,10 @@ $(document).ready(function(){
     $(this).css("background-color", "rgb(88, 88, 88)")
   });
 
+  $(".fixed-cta").hover(function() {
+    $(this).css("background-color", "#07619f")
+  }, function() {
+    $(this).css("background-color", "#0980d1")
+  });
+
 })
