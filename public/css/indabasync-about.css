@@ -1,17 +1,17 @@
 @font-face {
   font-family: 'Avant Garde Medium';
-  src: url('../fonts/avant_garde_medium.eot');
-  src: url('../fonts/avant_garde_medium.eot?#iefix') format('embedded-opentype'),
-     url('../fonts/avant_garde_medium.otf') format('otf'),
-     url('../fonts/avant_garde_medium.ttf') format('truetype');
+  src: url('/fonts/avant_garde_medium.eot');
+  src: url('/fonts/avant_garde_medium.eot?#iefix') format('embedded-opentype'),
+     url('/fonts/avant_garde_medium.otf') format('otf'),
+     url('/fonts/avant_garde_medium.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url('../fonts/glyphicons-halflings-regular.eot');
-  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
+  src: url('/fonts/glyphicons-halflings-regular.eot');
+  src: url('/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg');
 }
 
 body {
@@ -73,7 +73,7 @@ iframe {
 }
 
 .indabasync-logo {
-	background-image: url(../assets/logo_indabasync.png);
+	background-image: url(/assets/logo_indabasync.png);
 	background-repeat: no-repeat;
 	height: 91px;
 	width: 500px;
